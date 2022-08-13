@@ -21,5 +21,7 @@ GitHub
 	  merge : menggabungkan brach
 	  remote : sumber yang memiliki repo 
 	  clone : mengambil repo dari remote
-  	push : mengirim commit ke repo
+  	  push : mengirim commit ke repo
 	  pull mengambil commit dari repo
+	  
+	  Date 13/08/2022
