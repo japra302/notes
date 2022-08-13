@@ -1,0 +1,12 @@
+Teori Git & Github (Catatan)
+ 
+1. Git & Github adalah suatu hal yang berbeda 
+2. Git Adalah VCS (version control system) Atau source code management 
+sistem yang mengelolah perubahan dari sebuah dokumen 
+& memungkinkan bekerja
+berkolaborasi dengan lebih baik & mengetahui yang melakukan dan kapan
+Sebuah perubahan terjadi 
+& memungkinkan kembali kekeadaan sebelum perubahan
+file di dalam folder (repository / repo) 
+& riwayat perubahan file disimpan 
+menggunakan rangkaiyan commit   
