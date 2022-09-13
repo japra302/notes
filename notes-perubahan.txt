@@ -24,4 +24,10 @@ GitHub
   	  push : mengirim commit ke repo
 	  pull mengambil commit dari repo
 	  
-	  Date 13/08/2022
+- Brancing / Brach
+	Membuat Git Branch 
+	Membuat Snapshot tanpa mengnaggu jalur utama (Master brach)
+	Fitur Experimental 
+	2 Orang mengerjakan repo yang sama  
+	  
+	  Date 13/09/2022
