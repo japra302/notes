@@ -29,7 +29,16 @@ GitHub
 	Membuat Git Branch 
 	Membuat Snapshot tanpa mengnaggu jalur utama (Master brach)
 	Fitur Experimental 
-	2 Orang mengerjakan repo yang sama  
+	2 Orang mengerjakan repo yang sama
+	
+- Fork / Forking 
+       Membuat 'copy/duplikat dari repo
+	orang lain (beserta history.
+       Jembatan antara repo original dan duplikat nya.
+       modifikasi terhadap repo original.
+       berkontribusi terhadap repo orang lain.
+       
+	
 	  
 	 Date 13/09/2022
 	  
