@@ -19,12 +19,13 @@ GitHub
 	  checkout : berpindah kesebuah commit 
 	  branch : cabang bebas dari sebuah commit
 	  merge : menggabungkan brach
+	  marge Conflict : baris yang sama di ubah oleh 2 brach yang berbeda
 	  remote : sumber yang memiliki repo 
 	  clone : mengambil repo dari remote
   	  push : mengirim commit ke repo
 	  pull mengambil commit dari repo
 	  
-- Brancing / Brach
+- Brancing / Brach Jalur 'Development' bebas sebuah commit
 	Membuat Git Branch 
 	Membuat Snapshot tanpa mengnaggu jalur utama (Master brach)
 	Fitur Experimental 
