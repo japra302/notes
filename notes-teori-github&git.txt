@@ -3,16 +3,16 @@ Teori Git & Github (Catatan)
 1. Git & Github adalah suatu hal yang berbeda 
 2. Git Adalah VCS (version control system) Atau source code management 
 sistem yang mengelolah perubahan dari sebuah dokumen 
-& memungkinkan bekerja
-berkolaborasi dengan lebih baik & mengetahui yang melakukan dan kapan
+3. memungkinkan bekerja berkolaborasi dengan lebih baik & mengetahui yang melakukan dan kapan
 Sebuah perubahan terjadi 
-& memungkinkan kembali kekeadaan sebelum perubahan
+4. memungkinkan kembali kekeadaan sebelum perubahan
 file di dalam folder (repository / repo) 
-& riwayat perubahan file disimpan 
-menggunakan rangkaiyan commit
+5. riwayat perubahan file disimpan menggunakan rangkaiyan commit
 
-GitHub
-1. Layanan cloud untuk menyimpan & mengelola project / repo git.
+================================================================================================================
+
+GitHub Adalah Layanan cloud untuk menyimpan & mengelola project / repo git.
+        Singkatan2 / Istilah2 Dalam GitHub
 	  repo : folder project 
 	  commit : rekaman dari repository
 	  hash : penandaan unik pada sebuah commit 
@@ -25,20 +25,20 @@ GitHub
   	  push : mengirim commit ke repo
 	  pull mengambil commit dari repo
 	  
-- Brancing / Brach Jalur 'Development' bebas sebuah commit
+- Brancing / Brach Jalur 'Development' bebas sebuah commit (Fungsi)
 	Membuat Git Branch 
 	Membuat Snapshot tanpa mengnaggu jalur utama (Master brach)
 	Fitur Experimental 
 	2 Orang mengerjakan repo yang sama
 	
-- Fork / Forking 
+- Fork / Forking (Fungsi)
        Membuat 'copy/duplikat dari repo
-	orang lain (beserta history.
+       orang lain (beserta history.
        Jembatan antara repo original dan duplikat nya.
        modifikasi terhadap repo original.
        berkontribusi terhadap repo orang lain.
        
 	
 	  
-	 Date 13/09/2022
+
 	  
