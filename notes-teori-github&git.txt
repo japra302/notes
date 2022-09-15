@@ -38,6 +38,8 @@ GitHub Adalah Layanan cloud untuk menyimpan & mengelola project / repo git.
        modifikasi terhadap repo original.
        berkontribusi terhadap repo orang lain.
        
+       date   \      \         \
+       
 	
 	  
 
