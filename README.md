@@ -1,3 +1,3 @@
 # notes
 Repository Catatan 
-Awal Belajar Git & Github
+Awal Belajar 
