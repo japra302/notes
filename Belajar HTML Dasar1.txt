@@ -1,22 +1,68 @@
-1. Untuk buat web 
-  SABAR 1
-   - sabar 1 1.0
-   - sabar 2 2.0
-Cabang-fitur-2
-      - sabar 2.0.1
-      - sabar 2.0.2
-     
-   - sabar 3 3.0
-  SABAR 2
-   - sabar 2.1
-   - sabar 2.2
+(Pengertian, Sejarah, Fungsi Dasar HTML)
 
-   - sabar 3 3.0
-  SABAR 2
- Cabang-Fitur-1
-   - sabar 2.1
-   - sabar 2.2
-   - sabar 2.0
-   - sabar 4.0
+- HTML (Hypertext Markup Language) adalah bahasa markah standar untuk dokumen
+  yang dirancang untuk ditampilkan di peramban internet.
+  
+- Tim Berners-Lee sosok ilmuwan dibalik lahirnya HTML.
+  tahun 1991, awalnya menciptakan HTML sebagai solusi untuk memudahkan mengakses dokumen satu sama lain. 
+  Sampai saat ini HTML5 menjadi versi yang paling update dengan sistem yang paling canggih. 
+  ---------------------------------------------------------------------------------------------------------
+A. (Tag) adalah tanda awalan dan akhiran dalam perintah HTML yang akan dibaca oleh web browser. 
+Tag dibuat dengan menggunakan kurung siku <…>, di mana di dalamnya berisi nama tag.  
+
+Tag           Fungsi Tag
+---          ------------
+<HTML>       : Untuk memulai membuat halaman HTML yang mencakup semua konten dan elemen.              : 
+<head>       : Untuk membuat halaman HTML yang mencakup tampilan deskripsi di hasil pencarian Google, style konten (CSS), dan lainnya.  
+<title>      : Untuk membuat judul website 
+<body>       : Untuk membuat bagian isi website
+<h1> - <h6>  : Untuk membuat bagian heading pada artikel 
+<p>          : Untuk membuat paragraf 
+<!– –>       : Untuk membuat komentar 
+
+B. (ELEMEN) merupakan komponen HTML yang berupa keseluruhan kode dari 
+tag pembuka hingga tag penutup. CONTOHNYA : <bold> Hello Word </bold>
+
+Elemen itu disebut nested elements. Sebagai contoh, simak kode berikut: 
+----
+<html>
+  <body> 
+    <h2>Judul Heading</h2>
+    <p>Paragraf pertama artikel.</p> 
+  </body> 
+</html>
+----------------------------------------------------------------------------
+C. (ATRIBUT) adalah informasi atau perintah tambahan yang berada dalam elemen. 
+   (Penjelas Perintah Tag Pada Elemen.)
+          Misalnya : <img src=”gambar1.jpg” alt “Mobil Balap.”>.  
+   Tag <img> memiliki atribut khusus yaitu (scr) dan (alt) yang artinya browser harus    
+   menampilkan gambar.jpg dengan alt text “Mobil Balap.”. 
+   
+   Atribut  Dapat digunakan pada Tag
+   ------   ------------------------
+   src      : <img>, <embed>, <audio>, <iframe>
+   href     : <a>, <link> 
+   action   : <form>
+   autoplay : <audio>, <video>
+   
+   atribut khusus : , (onload) saat loading selesai, (onoffline) saat tiba-tiba          
+   offline, (onresize) ukuran jendela. Atribut tersebut disebut dengan atribut event.
+   nantinya akan diimplementasikan dengan Javascript. Sehingga halaman website dapat      
+   melakukan aksi tertentu.
+ --------------------------------------------------------------------------------
+ D. (Bagaimana Kerja HTML) Pertama, dokumen HTML Anda buat di aplikasi editor HTML (sublime text, DLL) dan menyimpannya dengan format .html  
+ 
+ Dokumen HTML yang dibuat bisa saja lebih dari satu. dalam sebuah website, 
+  terdiri dari banyak halaman. halaman utama, kontak, blog, dan lainnya. 
+  untuk dapat diakses oleh banyak orang, perlu menyewa 
+  layanan hosting website dan mengupload file website Anda di sana.
+  ---------------------------------------------------------------------
+    
+    
+
+
+
+
+
 
 
